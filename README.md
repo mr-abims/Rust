@@ -1,2 +1,2 @@
 # Rust
-Personal rust exploration
+### Personal rust exploration
